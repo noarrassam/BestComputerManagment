@@ -4,7 +4,7 @@
 ## Reyhaneh Hajigholam
 
 # Java Project
-# BestComputerManagment
+# Best Computer Managment
 
 ## Noar's Role
 
