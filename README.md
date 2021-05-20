@@ -47,4 +47,4 @@ In the retailer part, I am requesting an order from store to the warehouse for s
 
 © Noar Rassam, Adnan Alajroudi, Reyhaneh Hajigholam
 
-Licensed under the [MIT License](License).
+Licensed under the [MIT License](LICENSE).
