@@ -42,3 +42,9 @@ In the service part of company, I am creating a ticket for the customers who wan
 
 * Store Order
 In the retailer part, I am requesting an order from store to the warehouse for some items, so the order ticket contains product name, serial number, quantities... Using table, list, comboboxes…
+
+## License & Copyright
+
+© Noar Rassam, Adnan Alajroudi, Reyhaneh Hajigholam
+
+Licensed under the [MIT License](License).
